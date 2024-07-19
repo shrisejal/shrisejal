@@ -9,7 +9,7 @@ I'm a passionate Front-End Developer with expertise in HTML, CSS, and javascript
 Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://shrisejal.github.io/sejal/)]
 
 ### Social Media 📡:
-- Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]("https://www.linkedin.com/in/sejal-shrivastava-5b3843287?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDrcZY6KvS9%2BLY5bofscytQ%3D%3D")
+- Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sejal-shrivastava-5b3843287?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDrcZY6KvS9%2BLY5bofscytQ%3D%3D)
 
 
 
