@@ -11,6 +11,13 @@ Visit my portfolio for a detailed overview of my projects and skills: [![Portfol
 ### Social Media 📡:
 - Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sejal-shrivastava-5b3843287?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDrcZY6KvS9%2BLY5bofscytQ%3D%3D)
 
+- ## Languages and Tools 🛠️
+### Languages:
+| HTML | CSS | Javascript |
+|--------|---|------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" width="55" height="55"/> |
+
+
 
 
 
