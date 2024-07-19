@@ -2,11 +2,18 @@
 
 I'm a passionate Front-End Developer with expertise in HTML, CSS, and javascript. 
 ### About Me:
-- 🌱 Currently diving into the world of deep learning, mastering Python libraries for advanced data analysis.
-- 💻 Actively practicing and refining coding skills, particularly in implementing machine learning algorithms and neural networks.
+- 🌱 Currently, I'm diving deep into the world of web development, focusing on HTML, CSS, and JavaScript.
+- 💻 Actively practicing and refining coding skills, particularly in javascript algorithms and React Frameworks.
 - 📚 Engaged in continuous learning on platforms like LeetCode to enhance problem-solving abilities.
 
 Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://shrisejal.github.io/sejal/)]
+
+### Social Media 📡:
+- Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]("https://www.linkedin.com/in/sejal-shrivastava-5b3843287?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDrcZY6KvS9%2BLY5bofscytQ%3D%3D")
+
+
+
+
 
 
 <!--
