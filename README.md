@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello , I'm Sejal Shrivastava 👋
 
 <!--
 **shrisejal/shrisejal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
