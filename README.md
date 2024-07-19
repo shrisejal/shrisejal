@@ -15,7 +15,13 @@ Visit my portfolio for a detailed overview of my projects and skills: [![Portfol
 ### Languages:
 | HTML | CSS | Javascript |
 |--------|---|------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="55" height="55"/> | <img 
+
+### Best Frameworks and Libraries for Python:
+| Bootstrap | Tailwind | Typescript | Angular| Vue | React |
+|---------|----------|-------|--------|---------|--------|
+| <img src="hhttps://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikit-learn/scikit-learn-original.svg" alt="Sklearn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="55" height="55"/> |
+
 
 
 
