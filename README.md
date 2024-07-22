@@ -1,4 +1,4 @@
-## hello , I'm Sejal Shrivastava 👋
+## Hello , I'm Sejal Shrivastava 👋
 
 I'm a passionate Front-End Developer with expertise in HTML, CSS, and javascript. 
 ### About Me:
